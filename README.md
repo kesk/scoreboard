@@ -1,4 +1,4 @@
-scoreboard
+Scoreboard
 ==========
 
 KGL dojo scoreboard
