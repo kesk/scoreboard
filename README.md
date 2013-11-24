@@ -1,0 +1,4 @@
+scoreboard
+==========
+
+KGL dojo scoreboard
